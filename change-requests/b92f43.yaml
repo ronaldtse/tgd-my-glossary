@@ -20,6 +20,20 @@ revisions:
         authoritative_source: {}
       parents: []
       timeCreated: 2020-09-09T13:40:08.890Z
+    '-2-eng':
+      object:
+        id: -2
+        language_code: eng
+        entry_status: valid
+        terms:
+          - designation: second term
+            type: expression
+        definition: definition two
+        notes: []
+        examples: []
+        authoritative_source: {}
+      parents: []
+      timeCreated: 2020-09-09T13:40:15.406Z
 meta:
   registry:
     stage: Draft
