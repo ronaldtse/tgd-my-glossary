@@ -1,0 +1,37 @@
+id: 8f2da7
+author:
+  username: ronaldtse
+  name: Ronald Tse
+  email: ronald.tse@ribose.com
+timeCreated: 2020-09-09T13:41:19.322Z
+revisions: {}
+meta:
+  registry:
+    stage: Draft
+  submitter:
+    primaryPerson:
+      name: Ronald Tse
+      email: ronald.tse@ribose.com
+      affiliation: ''
+_revisions:
+  current: '818154'
+  tree:
+    '818154':
+      object:
+        id: 8f2da7
+        author:
+          username: ronaldtse
+          name: Ronald Tse
+          email: ronald.tse@ribose.com
+        timeCreated: 2020-09-09T13:41:19.322Z
+        revisions: {}
+        meta:
+          registry:
+            stage: Draft
+          submitter:
+            primaryPerson:
+              name: Ronald Tse
+              email: ronald.tse@ribose.com
+              affiliation: ''
+      parents: []
+      timeCreated: 2020-09-09T13:41:19.322Z
