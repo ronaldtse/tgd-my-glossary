@@ -32,3 +32,36 @@ eng:
           username: ronaldtse
           email: ronald.tse@ribose.com
           name: Ronald Tse
+deu:
+  id: 1
+  language_code: deu
+  entry_status: valid
+  terms:
+    - designation: first in german
+      type: expression
+  definition: definition in german
+  notes: []
+  examples: []
+  authoritative_source: {}
+  _revisions:
+    current: 0b643e
+    tree:
+      0b643e:
+        object:
+          id: 1
+          language_code: deu
+          entry_status: valid
+          terms:
+            - designation: first in german
+              type: expression
+          definition: definition in german
+          notes: []
+          examples: []
+          authoritative_source: {}
+        timeCreated: 2020-09-09T13:41:27.192Z
+        parents: []
+        author:
+          username: ronaldtse
+          name: Ronald Tse
+          email: ronald.tse@ribose.com
+        changeRequestID: 8f2da7
