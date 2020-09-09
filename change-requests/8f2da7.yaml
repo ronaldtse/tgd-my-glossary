@@ -4,7 +4,22 @@ author:
   name: Ronald Tse
   email: ronald.tse@ribose.com
 timeCreated: 2020-09-09T13:41:19.322Z
-revisions: {}
+revisions:
+  concepts:
+    1-deu:
+      object:
+        id: 1
+        language_code: deu
+        entry_status: valid
+        terms:
+          - designation: first in german
+            type: expression
+        definition: definition in german
+        notes: []
+        examples: []
+        authoritative_source: {}
+      parents: []
+      timeCreated: 2020-09-09T13:41:19.366Z
 meta:
   registry:
     stage: Draft
@@ -24,7 +39,22 @@ _revisions:
           name: Ronald Tse
           email: ronald.tse@ribose.com
         timeCreated: 2020-09-09T13:41:19.322Z
-        revisions: {}
+        revisions:
+          concepts:
+            1-deu:
+              object:
+                id: 1
+                language_code: deu
+                entry_status: valid
+                terms:
+                  - designation: first in german
+                    type: expression
+                definition: definition in german
+                notes: []
+                examples: []
+                authoritative_source: {}
+              parents: []
+              timeCreated: 2020-09-09T13:41:19.366Z
         meta:
           registry:
             stage: Draft
