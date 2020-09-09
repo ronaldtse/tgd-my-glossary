@@ -1,0 +1,36 @@
+termid: 3
+eng:
+  id: 3
+  language_code: eng
+  entry_status: valid
+  terms:
+    - designation: third term
+      type: expression
+      normative_status: preferred
+  definition: the third one
+  notes: []
+  examples: []
+  authoritative_source: {}
+  _revisions:
+    current: 048541
+    tree:
+      048541:
+        object:
+          id: 3
+          language_code: eng
+          entry_status: valid
+          terms:
+            - designation: third term
+              type: expression
+              normative_status: preferred
+          definition: the third one
+          notes: []
+          examples: []
+          authoritative_source: {}
+        parents: []
+        timeCreated: 2020-09-09T13:40:21.494Z
+        changeRequestID: b92f43
+        author:
+          username: ronaldtse
+          email: ronald.tse@ribose.com
+          name: Ronald Tse
